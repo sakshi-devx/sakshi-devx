@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sakshi 👩‍💻
 
-<!--
-**sakshi-devx/sakshi-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+📍 India
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently learning Web Development and Data Structures
+* Building real-world projects to strengthen fundamentals
+* Focused on problem-solving and writing clean, efficient code
+
+## 🛠️ Skills
+
+* C / C++
+* HTML, CSS, JavaScript (Beginner)
+* Git & GitHub
+
+## 🎯 Goals
+
+* Build a strong and consistent GitHub portfolio
+* Secure a meaningful tech internship
+* Start contributing to open-source projects
+
+## 📫 Connect
+
+* LinkedIn: (will update soon)
