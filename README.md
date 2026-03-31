@@ -1,6 +1,6 @@
 # Hi, I'm Sakshi 👩‍💻
 
-🎓 B.Tech CSE Student
+🎓Aspiring Software Developer | B.Tech CSE
 📍 India
 
 ## 🚀 About Me
